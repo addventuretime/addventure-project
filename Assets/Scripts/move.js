@@ -37,7 +37,7 @@ function Update () {
 		return;
 	}
 	*/
-	var directionVector = new Vector3(0.025, 0, 0.025);
+	var directionVector = new Vector3(0, 0, 0);
 	Debug.Log("Move: "+ directionVector);
 
 	if (directionVector != Vector3.zero) {
