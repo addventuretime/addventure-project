@@ -4,7 +4,7 @@ var collisionAudio: AudioClip;
 
  function OnTriggerEnter(trigger:Collider) {
  	Debug.Log("Collision");
- 	audio.PlayOneShot(collisionAudio);
+ 	GetComponent.<AudioSource>().PlayOneShot(collisionAudio);
  }
  
  @script RequireComponent(AudioSource)

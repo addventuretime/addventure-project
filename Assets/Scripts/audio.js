@@ -4,7 +4,7 @@ var welcomeAudio : AudioClip;
 
 function Start () {
 	Debug.Log("Start");
-	audio.PlayOneShot(welcomeAudio);
+	GetComponent.<AudioSource>().PlayOneShot(welcomeAudio);
 }
 
 function Update () {
