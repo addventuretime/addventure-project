@@ -1106,6 +1106,17 @@ MonoBehaviour:
     slidingSpeed: 15
     sidewaysControl: 1
     speedControl: .400000006
+--- !u!114 &402689114
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 402689106}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60bca8f58a0b8478e946e6e86658cb29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &405561562
 GameObject:
   m_ObjectHideFlags: 0
@@ -5472,6 +5483,7 @@ GameObject:
   - 23: {fileID: 2090385397}
   - 95: {fileID: 2090385396}
   - 82: {fileID: 2090385401}
+  - 114: {fileID: 2090385402}
   m_Layer: 0
   m_Name: lava2
   m_TagString: Untagged
@@ -5527,10 +5539,10 @@ MeshCollider:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2090385395}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 0
+  m_IsTrigger: 1
+  m_Enabled: 1
   serializedVersion: 2
-  m_Convex: 0
+  m_Convex: 1
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!33 &2090385399
 MeshFilter:
@@ -5620,6 +5632,18 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+--- !u!114 &2090385402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2090385395}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504c03c0fc57d43d286bdd4cf5db6221, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  noMatchForMeAudio: {fileID: 8300000, guid: 5c2f533ea4ac8400f983fd07b92e9e60, type: 3}
 --- !u!1 &2100450032
 GameObject:
   m_ObjectHideFlags: 0
