@@ -1,6 +1,6 @@
 ﻿#pragma strict
 
-var noMatchForMeAudio: AudioClip;
+var collisionAudio: AudioClip;
 
  private var allAudioSources : AudioSource[];
   
@@ -17,7 +17,7 @@ var noMatchForMeAudio: AudioClip;
  function OnTriggerEnter(trigger:Collider) {
  	Debug.Log("Collision");
  	StopAllAudio();
- 	GetComponent.<AudioSource>().PlayOneShot(noMatchForMeAudio);
+ 	GetComponent.<AudioSource>().PlayOneShot(collisionAudio);
  }
  
  @script RequireComponent(AudioSource)
