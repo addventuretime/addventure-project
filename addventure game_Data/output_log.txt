@@ -18,11 +18,47 @@ Platform assembly: E:\Documents\adventure day\addventure game_Data\Managed\Assem
 Loading E:\Documents\adventure day\addventure game_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
 Platform assembly: E:\Documents\adventure day\addventure game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading E:\Documents\adventure day\addventure game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.103 seconds
+- Completed reload, in  0.512 seconds
 <RI> Initializing input.
 <RI> Input initialized.
-desktop: 1920x1080 25Hz; virtual: 1920x1080 at 0,0
+desktop: 1920x1080 25Hz; virtual: 2520x3195 at 0,0
 <RI> Initialized touch support.
 Platform assembly: E:\Documents\adventure day\addventure game_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: E:\Documents\adventure day\addventure game_Data\Managed\System.dll (this message is harmless)
 Platform assembly: E:\Documents\adventure day\addventure game_Data\Managed\Boo.Lang.dll (this message is harmless)
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
